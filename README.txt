@@ -256,4 +256,4 @@ Verify persisted records directly in MySQL.
 
 SCREENSHOTS
 =============
-Ouput screenshots are in /screenshots
+Output screenshots are in screenshots/
